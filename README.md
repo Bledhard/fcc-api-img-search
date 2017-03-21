@@ -7,6 +7,6 @@
 ## Example query usage:
 
 ```text
-https://img-sal.herokuapp.com/lolcats%20funny?offset=10
-https://img-sal.herokuapp.com/latest
+https://bledhard-fcc-img-search.herokuapp.com/lolcats%20funny?offset=10
+https://bledhard-fcc-img-search.herokuapp.com/latest
 ```
